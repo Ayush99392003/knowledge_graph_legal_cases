@@ -1,7 +1,5 @@
 
-# 📘 Ultra-Detailed Knowledge Graph Pipeline Documentation  
-### **Complete System Architecture • Mermaid Visuals • Step-by-Step Explanation • Technologies Used • Long-Form 5× Documentation**
-
+# 📘Knowledge Graph Pipeline Documentation  
 ---
 
 # 🧭 Table of Contents
